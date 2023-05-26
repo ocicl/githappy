@@ -1,0 +1,9 @@
+* githappy
+
+Query the github REST API.
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/xach/githappy.git |
+| commit  | 0522ea7                                  |
+| systems | githappy                                 |
+|---------+------------------------------------------|
