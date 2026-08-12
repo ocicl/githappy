@@ -7,4 +7,4 @@ Query the github REST API.
 | commit  | 0522ea7                                  |
 | systems | githappy                                 |
 |---------+------------------------------------------|
- 
+  
